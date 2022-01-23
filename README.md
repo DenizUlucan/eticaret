@@ -1,16 +1,3 @@
-# eticaret
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is an unfinished clone project
+![Ekran görüntüsü 2022-01-23 181133](https://user-images.githubusercontent.com/78087809/150694810-1e78b628-6621-4453-affd-e19828146ee9.png)
+![Ekran görüntüsü 2022-01-23 222847](https://user-images.githubusercontent.com/78087809/150694817-952b4548-877c-40f9-a671-bdac281f1be9.png)
